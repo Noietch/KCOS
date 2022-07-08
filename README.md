@@ -1,2 +1,2 @@
 # KCOS-frontend
-File Storage And Sharing Website For Lightweight Server
+The frontend of file storage and sharing website for lightweight server
